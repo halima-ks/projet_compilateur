@@ -1,0 +1,10 @@
+int x;
+x = 7;
+int y;
+y = 5;
+if (x < y){
+    return y;
+}
+else {
+    return x;
+}
